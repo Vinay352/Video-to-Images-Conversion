@@ -3,6 +3,7 @@ This program uses OpenCV to capture every frame of any recorded video and save i
 
 ### Input
 The program uses command line arguments for input parameters. Steps to follow to execute this script:-
+
     1) Open the command prompt.
     2) Navigate to the folder where you have saved this program.
     >> cd (path to the VideoToImages.py file)
